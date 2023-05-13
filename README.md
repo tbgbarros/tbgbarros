@@ -4,8 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-gomes-98b9a881/)
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=ParaQueNome&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=false"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParaQueNome&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=tbgbarros&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=false"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbgbarros&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
 
