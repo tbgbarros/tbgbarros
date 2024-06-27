@@ -14,7 +14,7 @@ Sou um entusiasta da programação, focado em aprender e crescer na área. Este 
 
 ### 📊 Estatísticas do GitHub
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbgbarros&layout=compact" alt="Linguagens mais usadas">
-![Thiago github stats](https://github-readme-stats.vercel.app/api?username=tbgbarros&show_icons=true&hide=[%22issues%22])
+![Thiago Barros github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
 
 ### 🌐 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-gomes-98b9a881/)
