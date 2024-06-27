@@ -6,7 +6,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="40%"/><br> 
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-github-profile.kittinanx.com)](https://open.spotify.com/user/khreul7u18hahgsji0ooq24m4) <br>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=khreul7u18hahgsji0ooq24m4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) <br>
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tbgbarros&layout=compact">
 
