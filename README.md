@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tbgbarros&label=Profile%20views&color=0e75b6&style=flat" alt="tbgbarros" />
 </p>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="40%"/><br> 
-<br><br> Vibing to : 🎧  </strong></p>
+<br><br> Escute : 🎧  </strong></p>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=khreul7u18hahgsji0ooq24m4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) <br>
 
