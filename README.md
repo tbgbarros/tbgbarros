@@ -1,8 +1,10 @@
 
 ## Olá!! Eu sou o Thiago!!!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-gomes-98b9a881/)
+
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tbgbarros&layout=compact">
+--
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-gomes-98b9a881/)
 
 
 
